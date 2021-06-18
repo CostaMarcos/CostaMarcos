@@ -10,6 +10,18 @@ Bem vindo ao meu repositório, sou estudante de Engenharia de Software e atualme
 - Git - ([Certificado de conclusão | Digital Innovation One](https://storage.googleapis.com/golden-wind/semana-omnistack-11/marcosvinicius.mecatronica@gmail.com.pdf))
 - Scrum - ([Certificado de conclusão | Digital Innovation One](https://certificates.digitalinnovation.one/2870C5FC?utm_campaign=website&utm_source=sendgrid&utm_medium=organic))
 
-**Meus contatos 👇**
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaMarcos&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+                                                                                                                                                  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Vinicius-3045B3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinicius-dev/)](https://www.linkedin.com/in/marcos-vinicius-dev/) [![Gmail Badge](https://img.shields.io/badge/-marcosvinicius-B33038?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvinicius.mecatronica@gmail.com)](mailto:marcosvinicius.mecatronica@gmail.com)
+
+### Meus contatos 👇 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-3045B3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinicius-dev/)](https://www.linkedin.com/in/marcos-vinicius-dev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-B33038?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvinicius.mecatronica@gmail.com)](mailto:marcosvinicius.mecatronica@gmail.com)
