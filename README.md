@@ -11,6 +11,7 @@ Bem vindo ao meu repositório, sou estudante de Engenharia de Software e atualme
 
 
 <div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanderson337&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaMarcos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
