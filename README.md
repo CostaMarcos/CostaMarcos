@@ -8,14 +8,6 @@ Tecnologias:
 - Node
 - Angular
 
-#### Cursos
-  - Django-Rest ([Certificado de conclusão | Udemy](http://ude.my/UC-f3830b8e-30f6-4151-abce-3021452cf24c))
-  - Angular 10 - ([Certificado de conclusão | Alura](https://cursos.alura.com.br/certificate/3f167995-d4d9-4e0b-b96b-70c6bcc85ccc))
-  - NodeJs - ([Certificado de conclusão | Semana Omnistack 11](https://storage.googleapis.com/golden-wind/semana-omnistack-11/marcosvinicius.mecatronica@gmail.com.pdf))
-  - Git - ([Certificado de conclusão | Digital Innovation One](https://storage.googleapis.com/golden-wind/semana-omnistack-11/marcosvinicius.mecatronica@gmail.com.pdf))
-  - Scrum - ([Certificado de conclusão | Digital Innovation One](https://certificates.digitalinnovation.one/2870C5FC?utm_campaign=website&utm_source=sendgrid&utm_medium=organic))
-
-
 <div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CostaMarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaMarcos&layout=compact&langs_count=16&theme=dracula"/>
