@@ -1,6 +1,12 @@
 # 🧑‍🚀  Em desenvolvimento constante
 
-Bem vindo ao meu repositório, sou estudante de Engenharia de Software e atualmente trabalho com desenvolvimento de aplicações Web. Sou formado como técnico em Mecatrônica, então tenho um certo interesse por robótica e IoT.
+Bem vindo ao meu repositório, sou estudante de Engenharia de Software e atualmente trabalho com desenvolvimento de aplicações Web.
+
+Tecnologias:
+- Django
+- Dotnet
+- Node
+- Angular
 
 #### Cursos
   - Django-Rest ([Certificado de conclusão | Udemy](http://ude.my/UC-f3830b8e-30f6-4151-abce-3021452cf24c))
