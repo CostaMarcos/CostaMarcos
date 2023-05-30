@@ -12,7 +12,7 @@ Technologies:
 - React (2+ years exp)
 - .NET (1 year exp)
 
-Current location: Manaus, Brazil.
+Current location: Manaus, Brazil (UTC-4).
 
 ### Text me on 👇 
 
