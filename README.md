@@ -1,14 +1,16 @@
 # 🧑‍🚀  Welcome to my GitHub!
 
-I am a mid-level developer working since 2020, proficient in Angular, Django, React, and .NET technologies. I hold a bachelor's degree in Software Engineering from the Federal Institute of Amazonas and a Technical degree in Mechatronics. My main technologies are Python and JavaScript, and I excel in code analysis and logical problem-solving. I also enjoy developing interfaces using HTML and CSS.
+My name is Marcos, and I have 4 years of experience in software development, encompassing front-end, back-end, RPA, and automations. I am proficient in technologies such as Python, JavaScript, Angular, React, and others. I hold a bachelor's degree in Software Engineering, and I am currently pursuing a post-graduation in Machine Learning.
+
+I have previously worked for renowned companies, including Samsung and LG, at their Technology Institutes.
 
 Backgrounds:
 - Graduation in software engineering (2019 - 2022)
 - Mechatronics Technician (2016 - 2018)
 
 Technologies:
-- Angular (3+ years exp)
-- Django (3+ years exp)
+- Angular (4+ years exp)
+- Django (4+ years exp)
 - React (2+ years exp)
 - .NET (1 year exp)
 
