@@ -11,7 +11,7 @@ Backgrounds:
 Technologies:
 - Angular (4+ years exp)
 - Django (4+ years exp)
-- React (2+ years exp)
+- React (3+ years exp)
 - .NET (1 year exp)
 
 Current location: Manaus, Brazil (UTC-4).
