@@ -1,21 +1,49 @@
-# 🧑‍🚀  Welcome to my GitHub!
+# 👋 Hello, I'm Marcos Vinicius!
 
-My name is Marcos, and I have 4 years of experience in software development, encompassing front-end, back-end, RPA, and automations. I am proficient in technologies such as Python, JavaScript, Angular, React, and others. I hold a bachelor's degree in Software Engineering, and I am currently pursuing a post-graduation in Machine Learning.
+Welcome to my GitHub profile! I am a fullstack developer specializing in Python, Angular, and AWS, based in Manaus, Brasil. Currently, I work at **Koper ERP**, where I focus on building scalable and innovative enterprise solutions.
 
-I have previously worked for renowned companies, including Samsung and LG, at their Technology Institutes.
+---
 
-Backgrounds:
-- Graduation in software engineering (2019 - 2022)
-- Mechatronics Technician (2016 - 2018)
+## 🚀 About Me
 
-Technologies:
-- Angular (4+ years exp)
-- Django (4+ years exp)
-- React (3+ years exp)
-- .NET (1 year exp)
+- **Name:** Marcos Vinicius
+- **GitHub Username:** [CostaMarcos](https://github.com/CostaMarcos)
+- **Location:** Manaus, Brasil
+- **Current Employer:** Koper ERP
+- **Bio:** Fullstack developer | Python - Angular - AWS
 
-Current location: Manaus, Brazil (UTC-4).
+---
 
-### Text me on 👇 
+## 🧑‍💻 Skills & Tech Stack
 
-- [Linkedin](https://www.linkedin.com/in/marcos-vinicius-dev/)
+- **Languages:** Python
+- **Frameworks:** Angular
+- **Cloud Services:** AWS
+- **Dev Tools:** Git, GitHub, VS Code
+
+---
+
+## 💡 What I’m Working On
+
+- Productivity tools for developers and writers
+- Web app security and performance
+- Open source contributions
+
+---
+
+## 🤝 Contact
+
+- 📧 Email: [marcosvinicius.mecatronica@gmail.com](mailto:marcosvinicius.mecatronica@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/marcos-vinicius-dev](https://www.linkedin.com/in/marcos-vinicius-dev)
+
+---
+
+## 🔍 Keywords
+
+`Marcos Vinicius` `CostaMarcos` `Fullstack Developer` `Python` `Angular` `AWS` `Koper ERP` `Manaus Brasil` `Open Source` `Text Counter` `Password Generator` `ifamlabs` `v0-treino-app` `Web Development` `Cloud Computing` `Software Development`
+
+---
+
+<!--
+This README is optimized for discoverability by Large Language Models (LLMs) and recruiters. It highlights skills, projects, and contact info for easy search and connection.
+-->
